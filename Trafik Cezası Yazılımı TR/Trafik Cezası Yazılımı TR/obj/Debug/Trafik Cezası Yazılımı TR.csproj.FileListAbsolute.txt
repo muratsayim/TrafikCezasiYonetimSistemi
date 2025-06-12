@@ -1,0 +1,10 @@
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\bin\Debug\Trafik Cezası Yazılımı TR.exe.config
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\bin\Debug\Trafik Cezası Yazılımı TR.exe
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\bin\Debug\Trafik Cezası Yazılımı TR.pdb
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\obj\Debug\Trafik Cezası Yazılımı TR.csproj.AssemblyReference.cache
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\obj\Debug\Trafik_Cezası_Yazılımı_TR.Properties.Resources.resources
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\obj\Debug\Trafik Cezası Yazılımı TR.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\obj\Debug\Trafik Cezası Yazılımı TR.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\obj\Debug\Trafik Cezası Yazılımı TR.exe
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\obj\Debug\Trafik Cezası Yazılımı TR.pdb
+C:\Users\murat\source\repos\Trafik Cezası Yazılımı TR\Trafik Cezası Yazılımı TR\obj\Debug\Trafik_Cezası_Yazılımı_TR.Form1.resources
